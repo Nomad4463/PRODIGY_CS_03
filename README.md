@@ -50,5 +50,3 @@ Feedback:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-This `README.md` provides an overview of what the tool does, how to use it, and an example of its output without including the full code. Replace `https://github.com/yourusername/password-strength-assessment.git` with the actual URL of your GitHub repository.
